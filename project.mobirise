@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sien Goris",
-    "currentPage": "page9.html",
+    "currentPage": "page8.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 53,
     "versionPublish": "4.6.5",
@@ -3221,7 +3221,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Article Title with Solid Background\n                </h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Zelfportretten</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qOZQYnA6SJ",
           "_anchor": "content4-1b",
           "_protectedParams": [],
@@ -3320,23 +3320,23 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zelfportret-4-2000x3678.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-4-2000x3678-800x1471.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "zelfportret<br>2018<br>olie op doek<br>55x100 cm",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zelfportret-3-2000x1852.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-3-2000x1852-800x740.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "zelfportret<br>2018<br>olie op doek<br>47x51 cm",
                 "active": false
               },
               {
@@ -3344,72 +3344,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zelfportret-5-2000x2265.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-5-2000x2265-800x906.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "zelfportret<br>2018<br>olie op hout<br>20.5x22 cm",
+                "active": true
               }
             ]
           }
