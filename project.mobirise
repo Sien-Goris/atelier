@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sien Goris",
-    "currentPage": "page8.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 53,
     "versionPublish": "4.6.5",
@@ -1621,6 +1621,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Svelte en Elias<br>2017<br>gouache op doek<br>20.5x20.5 cm",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/rien-10-2000x2302.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rien-10-2000x2302-800x920.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Rien<br>2018<br>olie op hout<br>20.5x22cm",
                 "active": true
               }
             ]
@@ -2789,6 +2801,30 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Machelen<br>2017<br>olie op hout<br>16.7x13.5 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/machelen-5-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/machelen-5-2000x2000-800x800.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Machelen<br>2018<br>olie op doek<br>20x20 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/machelen-6-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/machelen-6-2000x2000-800x800.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Deinze<br>2018<br>olie op doek<br>20x20 cm",
                 "active": true
               }
             ]
